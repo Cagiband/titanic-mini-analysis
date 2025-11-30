@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Colab](https://img.shields.io/badge/Run%20in-Colab-yellow)
+
 # 🚢 Titanic Mini Data Analysis | Kübra Çağlayan Özkan
 ![Survival Chart](survival_chart.png)
 
