@@ -38,6 +38,8 @@ Not defterinde:
 6. “Sonuç & Neler Öğrendim” bölümü  
 
 ---
+> Basit Logistic Regression modelim, test verisi üzerinde yaklaşık **%79 doğruluk (accuracy ≈ 0.79)** elde etti.  
+Bu skor, amacım “mükemmel model” kurmak olmasa da, başlangıç seviyesi bir çalışma için tatmin edici bir referans noktası sağladı.
 
 ## Neler Öğrendim: 
 
