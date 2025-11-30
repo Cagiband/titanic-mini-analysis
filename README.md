@@ -1,4 +1,5 @@
 # 🚢 Titanic Mini Data Analysis | Kübra Çağlayan Özkan
+![Survival Chart](survival_chart.png)
 
 Bu repo, veri bilimine giriş yolculuğumda hazırladığım ilk mini projeyi içermektedir.  
 Amaç, Titanic veri seti ile temel **EDA (Exploratory Data Analysis)** yapmak, veriyi temizlemek ve **Logistic Regression** ile basit bir sınıflandırma modeli kurmak.
