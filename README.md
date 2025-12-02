@@ -61,7 +61,16 @@ uygulamalı olarak deneyimledim.
 
 Bu repo, **AI & Data öğrenme yolculuğumda attığım ilk gerçek adımlardan biri** olarak portföyümde yer almaktadır. 🚀
 
----
+## 🚀 Nasıl Çalıştırılır?
+
+Bu projeyi çalıştırmak için aşağıdaki adımları izleyebilirsiniz:
+
+```bash
+git clone https://github.com/Cagiband/titanik-mini-analiz.git
+pip install pandas numpy matplotlib scikit-learn
+```
+Daha sonra `01_titanic_basic_analysis.ipynb` dosyasını  
+Jupyter Notebook veya Google Colab ile açarak çalıştırabilirsiniz.
 
 ## 🛠 Kullanılan teknolojiler
 
